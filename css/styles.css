@@ -1,0 +1,24 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.verde {
+    color: #DAFF01;
+}
+
+
+.botao-lilas {
+    background-color: #9353FF;
+}
+
+.bold {
+    font-weight: 700;
+}
